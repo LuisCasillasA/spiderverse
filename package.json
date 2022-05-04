@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Week 3 exercise 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisCasillasA/spiderverse.git"
+  },
+  "author": "LuisCasillasA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisCasillasA/spiderverse/issues"
+  },
+  "homepage": "https://github.com/LuisCasillasA/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
